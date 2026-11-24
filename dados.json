@@ -1,0 +1,46 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "Gabriel Guimarães",
+            "telefone": "28999452452",
+            "email": "litoj82395@bonuscable.com"
+        }
+    ],
+    "animais": [
+        {
+            "id": 1,
+            "cliente_id": 1,
+            "nome": "Trovão",
+            "especie": "cão"
+        }
+    ],
+    "servicos": [
+        {
+            "id": 1,
+            "nome": "Banho",
+            "preco": 40.0
+        },
+        {
+            "id": 2,
+            "nome": "Tosa",
+            "preco": 55.0
+        },
+        {
+            "id": 3,
+            "nome": "Banho e tosa",
+            "preco": 80.0
+        },
+        {
+            "id": 4,
+            "nome": "Consulta veterinária",
+            "preco": 120.0
+        },
+        {
+            "id": 5,
+            "nome": "Estética e Higiene",
+            "preco": 30.0
+        }
+    ],
+    "agendamentos": []
+}
